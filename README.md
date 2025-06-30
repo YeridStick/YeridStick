@@ -1,142 +1,214 @@
-# ¡Hola! 👋 Soy Yerid Stick Ramírez Guzmán
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yerid%20Stick%20Ramírez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=9400D3&center=true&vCenter=true&width=800&lines=Frontend+Developer;Aspirante+a+Full-Stack;Apasionado+por+la+Tecnología;Siempre+Aprendiendo+💜" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Full-Stack+Aspirant+%F0%9F%8C%9F;Code+Enthusiast+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
 
-## 💫 Sobre Mí
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Sobre Mí**
 
-🚀 **Desarrollador Frontend** con pasión por crear experiencias web excepcionales  
-🎯 **Objetivo:** Convertirme en un desarrollador Full-Stack completo  
-💡 **Filosofía:** El aprendizaje continuo es la clave del éxito en tecnología  
-🤝 **Colaboración:** Siempre dispuesto a ayudar y aprender de otros desarrolladores  
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+      </td>
+      <td align="center" width="50%">
+        
 ```javascript
 const yerid = {
-    code: ["JavaScript", "HTML", "CSS", "C++", "C"],
-    askMeAbout: ["web dev", "frontend", "UI/UX", "tech"],
-    technologies: {
-        frontend: ["React", "React Native", "Redux", "jQuery", "Bootstrap"],
-        backend: ["Node.js", "Laravel"],
-        databases: ["MySQL", "MariaDB", "MongoDB"],
-        tools: ["Figma", "Inkscape", "Krita", "Canva"],
-        gameEngine: ["Godot"],
-        os: ["Linux"]
+  name: "Yerid Stick Ramírez Guzmán",
+  role: "Frontend Developer",
+  location: "Colombia 🇨🇴",
+  code: ["JavaScript", "HTML", "CSS", "C++", "C"],
+  askMeAbout: ["web dev", "frontend", "UI/UX", "tech"],
+  technologies: {
+    frontend: {
+      js: ["React", "Redux", "jQuery"],
+      css: ["Bootstrap", "CSS3"],
+      mobile: ["React Native"]
     },
-    currentFocus: "Desarrollando habilidades full-stack",
-    portfolio: "yerid.dev",
-    funFact: "¡El código limpio es mi obsesión!"
+    backend: {
+      js: ["Node.js"],
+      php: ["Laravel"]
+    },
+    databases: ["MySQL", "MariaDB", "MongoDB"],
+    tools: ["Figma", "Inkscape", "Krita"],
+    gameEngine: ["Godot"],
+    os: ["Linux"]
+  },
+  currentFocus: "Building Full-Stack Skills",
+  portfolio: "yerid.dev",
+  motto: "Clean code is my obsession! 💜"
 };
 ```
+        
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Tech Arsenal**
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
+  
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,jquery" />
+</p>
 
-### Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Backend & Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb,apache" />
+</p>
 
 ### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,php" />
+</p>
 
 ### Tools & Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,linux,godot,git,github,vscode" />
+</p>
 
-### Other
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🌐 [Mi Portafolio Personal - yerid.dev](https://yerid.dev)
-**Tecnologías:** React, CSS3, JavaScript  
-Mi sitio web personal donde muestro mis proyectos, habilidades y experiencia como desarrollador frontend.
-
-### 🔥 [Nombre del Proyecto 1](link-al-repo)
-**Tecnologías:** React, Node.js, MongoDB  
-Breve descripción del proyecto y su propósito.
-
-### 🌟 [Nombre del Proyecto 2](link-al-repo)
-**Tecnologías:** JavaScript, CSS3, HTML5  
-Breve descripción del proyecto y su propósito.
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeridStick&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeridStick&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeridStick&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
-## 🎯 Objetivos Actuales
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Proyectos Destacados**
 
-- 📚 Profundizando en desarrollo backend con Node.js
-- 🔍 Explorando frameworks modernos como Next.js
-- 🗄️ Mejorando habilidades en bases de datos
-- 🚀 Construyendo proyectos full-stack completos
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌐 Portfolio Personal</h3>
+        <div align="center">  
+          <a href="https://yerid.dev" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Portfolio" height="100" /></a>  
+        </div>
+        <br>
+        <p align="center">
+          <a href="https://yerid.dev" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=netlify&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Tech Stack:</strong> React, CSS3, JavaScript</p>
+        <p>Mi sitio web personal donde muestro mis proyectos y habilidades</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🚀 Próximo Proyecto</h3>
+        <div align="center">  
+          <img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="Coming Soon" height="100" />
+        </div>
+        <br>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Coming%20Soon-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white"/>
+        </p>
+        <p><strong>Tech Stack:</strong> MERN Stack</p>
+        <p>Trabajando en una aplicación full-stack increíble</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🌐 Conecta Conmigo
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Estadísticas de GitHub**
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YeridStick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YeridStick&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeridStick&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YeridStick&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Objetivos 2025**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+        <br><strong>Backend Mastery</strong>
+        <br>Node.js & Express
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+        <br><strong>Database Expert</strong>
+        <br>MongoDB & PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+        <br><strong>Cloud Deploy</strong>
+        <br>AWS & Docker
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+        <br><strong>Full-Stack Apps</strong>
+        <br>Complete Projects
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Conecta Conmigo**
+
+<div align="center">
+  <a href="https://yerid.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yerid-stick-ramirez-guzman/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/YeridStick" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:tu-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yerid.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerid-stick-ramirez-guzman/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YeridStick)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
-
-</div>
-
----
-
-## 💭 Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
----
-
-<div align="center">
+  ### 💜 ¡Gracias por visitar mi perfil! 💜
+  **¿Tienes una idea increíble? ¡Colaboremos y hagámosla realidad!** 🚀
   
-### 🔥 ¡Gracias por visitar mi perfil! 🔥
-**Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme.** 💜
-
+  <img src="https://komarev.com/ghpvc/?username=YeridStick&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  
 </div>
 
----
-*⭐ ¡No olvides darle una estrella a mis repositorios si te gustaron! ⭐*
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
