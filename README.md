@@ -52,7 +52,7 @@ const yerid = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Tech Arsenal**
+**Tech Arsenal**
 
 <div align="center">
   
@@ -80,7 +80,7 @@ const yerid = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Proyectos Destacados**
+**Proyectos Destacados**
 
 <div align="center">
 
@@ -92,7 +92,7 @@ const yerid = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Estadísticas de GitHub**
+**Estadísticas de GitHub**
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YeridStick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -109,22 +109,7 @@ const yerid = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Objetivos 2025**
-
-<div align="center">
-
-| 🎯 **Meta** | 💻 **Tecnología** | 📈 **Progreso** |
-|-------------|-------------------|------------------|
-| 🚀 **Backend Mastery** | Node.js & Express | `████████░░` 80% |
-| 🗄️ **Database Expert** | MongoDB & PostgreSQL | `██████░░░░` 60% |
-| ☁️ **Cloud Deploy** | AWS & Docker | `████░░░░░░` 40% |
-| 🌟 **Full-Stack Apps** | Complete Projects | `██████████` 90% |
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Conecta Conmigo**
+**Conecta Conmigo**
 
 <div align="center">
   <a href="https://yerid.dev" target="_blank">
@@ -154,7 +139,6 @@ const yerid = {
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
   ### 💜 ¡Gracias por visitar mi perfil! 💜
   **¿Tienes una idea increíble? ¡Colaboremos y hagámosla realidad!** 🚀
