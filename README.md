@@ -87,7 +87,6 @@ const yerid = {
 | 💼 **Proyecto** | 🔗 **Estado** | 🛠️ **Tech Stack** | 📝 **Descripción** |
 |-----------------|---------------|-------------------|-------------------|
 | 🌐 **[Portfolio Personal](https://yerid.dev)** | [![Live](https://img.shields.io/badge/Live-00D9FF?style=flat&logo=netlify&logoColor=white)](https://yerid.dev) | React, CSS3, JavaScript | Mi sitio web personal donde muestro proyectos y habilidades |
-| 🚀 **Próximo Proyecto** | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-FF6B6B?style=flat&logo=rocket&logoColor=white) | MERN Stack | Aplicación full-stack en desarrollo |
 
 </div>
 
