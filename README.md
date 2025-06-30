@@ -1,7 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yerid%20Stick%20Ramírez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
----
 
 <div align="left">
 
