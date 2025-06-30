@@ -85,12 +85,12 @@ const yerid = {
 **Estadísticas de GitHub**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YeridStick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YeridStick&theme=tokyonight&hide_border=true" />
+  <img width="49%" height="400px" src="https://github-readme-stats.vercel.app/api?username=YeridStick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" height="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=YeridStick&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeridStick&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeridStick&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
