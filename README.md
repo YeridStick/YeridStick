@@ -12,16 +12,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Sobre Mí**
+<div align="left">
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-      </td>
-      <td align="center" width="50%">
-        
 ```javascript
 const yerid = {
   name: "Yerid Stick Ramírez Guzmán",
@@ -49,10 +41,13 @@ const yerid = {
   motto: "Clean code is my obsession! 💜"
 };
 ```
-        
-      </td>
-    </tr>
-  </table>
+
+**🚀 Frontend Developer | 🌟 Full-Stack Aspirant | 💻 Code Enthusiast**
+
+📍 Desde Colombia, creando experiencias web excepcionales  
+🎯 Mi objetivo: dominar el desarrollo Full-Stack  
+🤝 Siempre dispuesto a colaborar y aprender  
+
 </div>
 
 ---
@@ -88,36 +83,12 @@ const yerid = {
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Proyectos Destacados**
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌐 Portfolio Personal</h3>
-        <div align="center">  
-          <a href="https://yerid.dev" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Portfolio" height="100" /></a>  
-        </div>
-        <br>
-        <p align="center">
-          <a href="https://yerid.dev" target="_blank">
-            <img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=netlify&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Tech Stack:</strong> React, CSS3, JavaScript</p>
-        <p>Mi sitio web personal donde muestro mis proyectos y habilidades</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🚀 Próximo Proyecto</h3>
-        <div align="center">  
-          <img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="Coming Soon" height="100" />
-        </div>
-        <br>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Coming%20Soon-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white"/>
-        </p>
-        <p><strong>Tech Stack:</strong> MERN Stack</p>
-        <p>Trabajando en una aplicación full-stack increíble</p>
-      </td>
-    </tr>
-  </table>
+
+| 💼 **Proyecto** | 🔗 **Estado** | 🛠️ **Tech Stack** | 📝 **Descripción** |
+|-----------------|---------------|-------------------|-------------------|
+| 🌐 **[Portfolio Personal](https://yerid.dev)** | [![Live](https://img.shields.io/badge/Live-00D9FF?style=flat&logo=netlify&logoColor=white)](https://yerid.dev) | React, CSS3, JavaScript | Mi sitio web personal donde muestro proyectos y habilidades |
+| 🚀 **Próximo Proyecto** | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-FF6B6B?style=flat&logo=rocket&logoColor=white) | MERN Stack | Aplicación full-stack en desarrollo |
+
 </div>
 
 ---
