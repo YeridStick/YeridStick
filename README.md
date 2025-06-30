@@ -142,30 +142,14 @@ const yerid = {
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Objetivos 2025**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-        <br><strong>Backend Mastery</strong>
-        <br>Node.js & Express
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-        <br><strong>Database Expert</strong>
-        <br>MongoDB & PostgreSQL
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-        <br><strong>Cloud Deploy</strong>
-        <br>AWS & Docker
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-        <br><strong>Full-Stack Apps</strong>
-        <br>Complete Projects
-      </td>
-    </tr>
-  </table>
+
+| 🎯 **Meta** | 💻 **Tecnología** | 📈 **Progreso** |
+|-------------|-------------------|------------------|
+| 🚀 **Backend Mastery** | Node.js & Express | `████████░░` 80% |
+| 🗄️ **Database Expert** | MongoDB & PostgreSQL | `██████░░░░` 60% |
+| ☁️ **Cloud Deploy** | AWS & Docker | `████░░░░░░` 40% |
+| 🌟 **Full-Stack Apps** | Complete Projects | `██████████` 90% |
+
 </div>
 
 ---
