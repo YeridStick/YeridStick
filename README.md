@@ -26,6 +26,7 @@ const yerid = {
         os: ["Linux"]
     },
     currentFocus: "Desarrollando habilidades full-stack",
+    portfolio: "yerid.dev",
     funFact: "¡El código limpio es mi obsesión!"
 };
 ```
@@ -70,7 +71,10 @@ const yerid = {
 
 ## 🚀 Proyectos Destacados
 
-<!-- Aquí puedes añadir tus mejores proyectos -->
+### 🌐 [Mi Portafolio Personal - yerid.dev](https://yerid.dev)
+**Tecnologías:** React, CSS3, JavaScript  
+Mi sitio web personal donde muestro mis proyectos, habilidades y experiencia como desarrollador frontend.
+
 ### 🔥 [Nombre del Proyecto 1](link-al-repo)
 **Tecnologías:** React, Node.js, MongoDB  
 Breve descripción del proyecto y su propósito.
@@ -110,6 +114,7 @@ Breve descripción del proyecto y su propósito.
 
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yerid.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerid-stick-ramirez-guzman/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YeridStick)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
