@@ -63,7 +63,7 @@ const yerid = {
 
 ### Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,linux,godot,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,linux,godot,git,github,vscode,java" />
 </p>
 
 </div>
