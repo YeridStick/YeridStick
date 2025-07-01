@@ -48,22 +48,22 @@ const yerid = {
   
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,jquery,angular" />
 </p>
 
 ### Backend & Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb,apache" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb,apache,postgresql" />
 </p>
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,php,java,elixir" />
 </p>
 
 ### Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,linux,godot,git,github,vscode,java" />
+  <img src="https://skillicons.dev/icons?i=figma,linux,godot,git,github,vscode" />
 </p>
 
 </div>
