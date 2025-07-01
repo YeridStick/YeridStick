@@ -53,7 +53,7 @@ const yerid = {
 
 ### Backend & Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb,apache,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb,postgresql" />
 </p>
 
 ### Programming Languages
