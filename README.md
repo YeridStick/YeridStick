@@ -9,8 +9,8 @@ const yerid = {
   name: "Yerid Stick Ramírez Guzmán",
   role: "Full-stack Developer",
   location: "Colombia 🇨🇴",
-  code: ["JavaScript", "HTML", "CSS", "C++", "C"],
-  askMeAbout: ["web dev", "frontend", "UI/UX", "tech"],
+  code: ["Java", "JavaScript", "HTML", "CSS", "C++", "C", "Python", "Elixir"],
+  askMeAbout: ["web dev", "frontend", "UI/UX", "backend"],
   technologies: {
     frontend: {
       js: ["React", "Redux", "jQuery"],
@@ -19,12 +19,12 @@ const yerid = {
     },
     backend: {
       js: ["Node.js"],
-      php: ["Laravel"]
+      java: ["Spring Boot"]
     },
-    databases: ["MySQL", "MariaDB", "MongoDB"],
-    tools: ["Figma", "Inkscape", "Krita"],
+    databases: ["MySQL", "MariaDB", "MongoDB", "Postgresql", "Oraccle"],
+    tools: ["Figma", "Inkscape", "Krita", "Blender", "VS code", "Intellij"],
     gameEngine: ["Godot"],
-    os: ["Linux"]
+    os: ["Linux", "Windows"]
   },
   currentFocus: "Building Full-Stack Skills",
   portfolio: "yerid.dev",
